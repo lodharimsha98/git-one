@@ -5,10 +5,9 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Learning Git</title>
+    <title>Learning git</title>
 </head>
 <body>
-    <h1>Hello John</h1>
-    <p>My first paragraph.</p>
+    <h1>About git</h1>
 </body>
 </html>
